@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{
+    width: 1024px;
+    margin:auto;
+}
+.heading{
+    color: #fff;
+    background-color:#34495e;
+    text-align: center;
+    padding: 10px;
+}
+sub{
+    color: #3490d1;
+}
+.another-div {
+	height: 150px;
+	width: 420px;
+	background-color: #7ab99c;
+	margin: auto;
+	margin-top: 30px;
+	border: 4px solid #374f5a;
+	padding: 20px;
+	box-shadow: 2px 2px 8px rgb(0, 0, 0);
+}
+.another-p{
+    text-align: center;
+}
+.other-div {
+	height: 87px;
+	width: 430px;
+	background-color: #e67e22;
+	margin-top: 30px;
+	margin-left: 20px;
+	border-radius: 0px 30px 30px 0px;
+	padding: 23px;
+	border-left: 4px solid #2790d7;
+	box-shadow: 5px 5px 9px #84c4f1;
+}
+.other-i {
+	display: inline-block;
+	margin-top: 5px;
+	color: #3f4650;
+	font-size: 20px;
+}
+.other-icon {
+	height: 35px;
+	width: 35px;
+	background-color: #fff;
+	text-align: center;
+    border-radius: 50%;
+    margin-top: -14px;
+}
+
+.div-three {
+	height: 87px;
+	width: 430px;
+	background-color: #1abc9c;
+	margin-top: 30px;
+    margin-left: 400px;
+    padding: 23px;
+    border-radius: 30px 0px 0px 30px;
+    border-right: 4px solid #2790d7;
+	box-shadow: -5px 5px 9px #84c4f1;
+}
+
+.sub-h{
+    margin-left: 333px;
+}
+.three-p {
+    margin-left: 9px;
+    text-align: right;
+}
+.three-i{
+    display: inline-block;
+    margin-top: 5px;
+    color: #424953;
+    font-size: 20px;
+}   
+.three-icon {
+	height: 35px;
+	width: 35px;
+	background-color: #fff;
+	border-radius: 50%;
+	text-align: center;
+    margin-left: 400px;
+    margin-top: -14px;
+}
+
+.last-div {
+	height: 150px;
+	width: 250px;
+	background-color: #e74c3c;
+	margin-left: 217px;
+	margin-top: 40px;
+	padding: 35px;
+    border-radius: 137px 137px 0px 0px;
+    box-shadow: 2px 1px 2px 4px #f6e073;
+}
+.last-h{
+    text-align: center;
+    margin-top: 20px;
+}
+.last-p {
+	text-align: center;
+	margin-top: 2px;
+}
+.last-i{
+    display: inline-block;
+     font-size: 20px;
+     margin-top: 5px;
+     color: #d94823;
+}
+.last-icon{
+    height: 35px;
+    width: 35px;
+    background-color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 105px;
+    margin-top: 10px;
+}
+.last-heading{
+    background-color: #34495e;
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
